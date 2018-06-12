@@ -1,4 +1,4 @@
-# W3C Web of Things 워킹 그룹
+# W3C Web of Things 워킹 그룹.
 
 https://www.w3.org/WoT/WG/
 
